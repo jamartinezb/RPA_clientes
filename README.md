@@ -19,7 +19,7 @@ python main.py
 El script generará un archivo CSV con los clientes que cumplen con los criterios de la consulta. El archivo se llamará clientes_con_tres_o_mas_pedidos.csv y se guardará en la raíz del proyecto, este archivo es el resultado de la consulta de la información alojada en la base de datos
 
 
-## Deploy
+## Deploy 🔧
 
 Para desplegar el proyecto después de instalar las dependencias, en el archivo config,json se encuentran los parámetros para conexión con base de datos, configuración del correo y configuración de la programación 
 
