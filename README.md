@@ -41,7 +41,29 @@ email: Tu dirección de correo electrónico desde la cual se enviarán los corre
 
 emailto: Dirección de correo electrónico del destinatario de los informes generados.
 
-password: La contraseña de tu cuenta de correo electrónico.
+password: Es la contraseñas de aplicaciones en Gmail
+
+#Las Contraseñas de Aplicaciones de Gmail permiten a las aplicaciones o servicios acceder a tu cuenta de Gmail sin necesidad de proporcionar tu contraseña principal. A continuación, se detallan los pasos para configurar una Contraseña de Aplicaciones:
+
+  1. Inicia sesión en tu cuenta de Gmail: Abre un navegador web y accede a tu cuenta de Gmail con tu nombre de usuario y contraseña.
+
+  2. Acceso a la Configuración de la Cuenta: Haz clic en tu avatar en la esquina superior derecha de la pantalla y selecciona "Cuenta de Google."
+
+  3. Seguridad: En la barra lateral izquierda, selecciona "Seguridad."
+
+  4. Acceso de aplicaciones menos seguras: Asegúrate de que la opción "Acceso de aplicaciones menos seguras" esté desactivada. Si está habilitada, desactívala. Esto mejora la seguridad de tu cuenta.
+
+  5. Contraseñas de Aplicaciones: En la sección "Iniciar sesión en Google," selecciona "Contraseñas de aplicaciones." Esto te llevará a la página de Contraseñas de Aplicaciones.
+
+  6. Selecciona la Aplicación: Escoge la aplicación o servicio para el que deseas generar una contraseña. Si la aplicación no aparece en la lista, selecciona "Otra (personalizada)."
+
+  7. Selecciona el Dispositivo: Elige el dispositivo o servicio al que se conectará la aplicación.
+
+  8. Genera la Contraseña: Haz clic en "Generar" para obtener una contraseña única. Esta será la contraseña que la aplicación utilizará para acceder a tu cuenta de Gmail.
+
+  9. Guarda la Contraseña: Anota la contraseña generada o cópiala en un lugar seguro. Esta contraseña es necesaria para configurar la aplicación o servicio.
+
+  10. Configura la Aplicación: En la aplicación o servicio que deseas conectar a tu cuenta de Gmail, utiliza la contraseña generada en lugar de tu contraseña principal. Asegúrate de seguir las instrucciones de configuración de la aplicación.
 
 asunto: Asunto del correo electrónico que se enviará.
 
