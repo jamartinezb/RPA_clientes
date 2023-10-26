@@ -24,7 +24,8 @@ El script generará un archivo CSV con los clientes que cumplen con los criterio
 Para desplegar el proyecto después de instalar las dependencias, en el archivo config,json se encuentran los parámetros para conexión con base de datos, configuración del correo y configuración de la programación 
 
 Parámetros de MongoDB
-mongodb_uri: Esta es la URI de MongoDB utilizada para establecer la conexión a la base de datos. Por defecto, se ha configurado para apuntar a una instancia local de MongoDB en el puerto 27017.
+mongodb_uri: Esta es la URI de MongoDB utilizada para establecer la conexión a la base de datos. Por defecto, se ha configurado para apuntar a una instancia local de MongoDB en el puerto 27017, en caso de utilizar autenticación debe configurar la cadena de conexión en la uri, ejemplo:
+mongodb://usuario:password@localhost:27017/?authMechanism=SCRAM-SHA-1
 
 nameDatabase: Nombre de la base de datos utilizada para almacenar los datos. En este caso, se llama "Rocket".
 
