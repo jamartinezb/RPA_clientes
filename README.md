@@ -1,6 +1,6 @@
 # 🛸📨🚀 RPA_clientes 🚀📨🛸
 
-Este proyecto se centra en la identificación de clientes con tres o más pedidos que han sido devueltos o cancelados en el mismo mes. Se proporciona un archivo de configuración que permite ajustar los parámetros esenciales para su operación. La aplicación tiene la capacidad de realizar tanto ejecuciones programadas como ejecuciones manuales.
+Este proyecto se centra en la identificación de clientes con tres o más pedidos que han sido devueltos o cancelados en el mismo mes. Se proporciona un archivo de configuración que permite ajustar los parámetros esenciales para su operación. La aplicación tiene la capacidad de realizar tanto ejecuciones programadas como ejecuciones manuales, en caso de ser necesario es posible realizar programación de tareas programadas del sistema para iniciar la ejecución por ejemplo en un servidor, para que el proceso sea desatendido.
 
 Durante el proceso de consulta, los resultados se almacenan en una tabla de la base de datos, lo que proporciona un registro detallado de cada consulta realizada. Además, el resultado de la consulta se genera en un archivo CSV y se envía por correo electrónico a las personas interesadas en la información.
 
