@@ -1,0 +1,19 @@
+{
+    "mongodb_uri": "mongodb://localhost:27017",
+    "nameDatabase": "Rocket",
+    "collectionResultado":"ResultadosConsulta",
+    "collectionPedidos":"Pedidos",
+
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "email": "jhonpo1593@gmail.com",
+    "emailto":"jamarbe05@gmail.com",
+    "password": "zfel nnti dool cgjl",
+    "asunto": "Clientes con 3 o más pedidos",
+    "cuerpo": "Clientes con 3 o más pedidos en estado 'returned' o 'cancelled' en un mismo mes, puede ver el historico de consulta en la base de datos en  'ResultadosConsulta'",
+
+    "ejecucionProgramada":"no",
+    "horaEjecucion":"22:33",
+    "intervaloEjecucion":"diario"
+    
+  }
