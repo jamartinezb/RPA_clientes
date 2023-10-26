@@ -7,8 +7,11 @@ Durante el proceso de consulta, los resultados se almacenan en una tabla de la b
 ## Cómo usar
 
 Instalar las dependencias:
+
 pip install -r requirements.txt
+
 Ejecutar el script:
+
 python main.py
 
 ## Resultados
